@@ -4,6 +4,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stardreama)](https://github.com/Stardreama/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Stardreama)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Stardreama/Stardreama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
